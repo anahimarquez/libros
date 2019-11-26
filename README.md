@@ -1,2 +1,1 @@
-# libros
-base de datos sobre libros
+CREATE (Masculinidad y Violencia Homicida:Person {name:'Masculinidad y Violencia Homicida', born:2009})
